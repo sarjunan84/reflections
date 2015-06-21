@@ -1,0 +1,1 @@
+When you initialize the repository, it will create .git folder in the local repository.
