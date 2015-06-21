@@ -8,9 +8,19 @@ I can easilty find the commits make my code is not working. I can easily revert 
 
 For each products and projects we need a workspace. Git for version control and find the commit logs and find the different between two different commits.
 
-b0678b161fcf74467ed3a63110557e3d6229cfa6
-df035382c41b4d0cda86a1aa30b53f15bef05b53
-25ede836903881848fea811df5b687b59d962da3
-4035769377cce96a88d5c1167079e12f30492391
-3e42136a76cf78c6c421cd720427bf6337c2d623
-3884eab839af1e82c44267484cf2945a766081f3
+git log
+git checkout
+git diff
+.bash_profile setup
+
+fa4c6bade4970c282b3870ad16f1bde8164663a9
+
+fa4c6bade4970c282b3870ad16f1bde8164663a9
+708bcce690e5faa5739bd471507c102ea16b77f7
+547f4171a82ec6429d002c1acef357aec41d3f17 - Bug
+71d52709ddc4066e7a79a1d0a412e43429a0cdeb
+7c81b8021ec16c5c7b240220314d01200957d605
+
+git diff 746f762e38b5bbb7d0b837464ef6ec3f8ee5bf91 003c8c197cd3b1e5b28b58f53ee14d7ebaa9bb3a
+
+746f762e38b5bbb7d0b837464ef6ec3f8ee5bf91
