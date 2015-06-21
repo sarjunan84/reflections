@@ -1,0 +1,16 @@
+Git requires multiple files commit because one file refers the other files changes to work together.
+
+Git Log files to see the history of commit files
+
+Git Diff file can be used to find the difference between the first and second commit ids.
+
+I can easilty find the commits make my code is not working. I can easily revert to the old version.
+
+For each products and projects we need a workspace. Git for version control and find the commit logs and find the different between two different commits.
+
+b0678b161fcf74467ed3a63110557e3d6229cfa6
+df035382c41b4d0cda86a1aa30b53f15bef05b53
+25ede836903881848fea811df5b687b59d962da3
+4035769377cce96a88d5c1167079e12f30492391
+3e42136a76cf78c6c421cd720427bf6337c2d623
+3884eab839af1e82c44267484cf2945a766081f3
