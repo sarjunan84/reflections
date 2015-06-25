@@ -1,1 +1,2 @@
 When would you want to use a remote repository rather than keeping all your work local?
+Once i have done with my development work i will push the file to the remote repository so that other developer can pick the file and continuously deliver on the project.
